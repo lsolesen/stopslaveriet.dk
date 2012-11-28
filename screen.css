@@ -1,0 +1,123 @@
+			html {
+				text-align: center;
+				font-size: 75%;
+			}
+			body {
+				background: #ddd;
+				font-family: "trebuchet ms", verdana, sans-serif;
+				font-size: 1em;
+			}
+			#container {
+				margin: auto;
+				border: 1px solid red;
+				padding: 3em;
+				width: 600px;
+				text-align: left;
+				background: #eee;
+			}
+			
+			
+			#branding {
+				text-align: center; 
+				color: red;
+			margin-bottom: 0em;
+				font-size: 26pt 
+				 }
+			
+			
+			#branding2 {
+				text-align: center; 
+				color: blacks;
+				font-size: 13pt;
+				margin-top: 0em;
+			}
+			
+			
+			#navigation {
+				text-align: center;
+				margin: auto;
+				width: 500px; }
+			
+								
+			#navigation li {
+				display: inline;
+			}
+			#navigation li a {
+				margin: 1.7em;
+				display: block;
+				width: 110px;
+				height: 135px;
+				background: #ccc;
+				border: 1px solid red;
+				text-decoration: none;
+				color: Red;
+				padding: 5px 0px 0px;
+				text-align: center;
+				font-size: 1em;
+				float: left;
+			}
+			
+			
+			#navigation a:hover {
+				border: 1px solid gray;
+				color: gray;
+				
+			}
+			
+			#navigation a#omkomiteen {
+				background: url(fors-omkomiteen.jpg) no-repeat; 
+				background-position: bottom;
+			}
+			
+			#navigation a#slaveri {
+				background: url(fors-slaveri.jpg) no-repeat;			 
+				background-position: bottom; 
+			}
+			#navigation a#borneslaveri {
+				background: url(fors-borneslaveri.jpg) no-repeat;			 
+				background-position: bottom; 
+			}
+			
+				#navigation a#moderneslaveri {
+				background: url(fors-moderneslaveri.jpg) no-repeat;			 
+				background-position: bottom; 
+			}
+			
+				#navigation a#slaverietshistorie {
+				background: url(fors-slaverietshistorie.jpg) no-repeat;			 
+				background-position: bottom; 
+			}
+			
+				#navigation a#menneskehandel {
+				background: url(fors-menneskehandel.jpg) no-repeat;			 
+				background-position: bottom; 
+			}
+						
+			
+				#navigation a#trafficking {
+				background: url(fors-trafficking.jpg) no-repeat;			 
+				background-position: bottom; 
+							
+			}
+			
+				#navigation a#stopslaveriet {
+				background: url(fors-stopslaveriet.jpg) no-repeat;			 
+				background-position: bottom; 
+							
+			}
+			
+			
+			
+			
+			#copyright {
+				clear: both;
+				text-align: center;
+				font-size: 0.9em;
+			}
+
+			#omfang td {
+			width: 160px; 
+			height: 12px;
+			
+			}
+						
